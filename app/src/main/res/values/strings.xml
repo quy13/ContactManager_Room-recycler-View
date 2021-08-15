@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactManager_Room</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="et_occupation" >Enter Occupation</string>
+    <string name="save_text">Save</string>
+    <string name="empty">Enter Information</string>
+    <string name="nah">add button icon</string>
+    <string name="update_button">update</string>
+    <string name="delete_button">delete</string>
+</resources>
