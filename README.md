@@ -6,4 +6,4 @@
 
 -Thêm chức năng sửa và xóa trong cơ sở dữ liệu
 
--Sẽ trả về vị trí trong danh sách khi bấm vào từng hàng bên trong recycler-View 
+-Sẽ trả về vị trí trong danh sách và hiển thị ra trong logcat khi bấm vào từng hàng bên trong recycler-View 
